@@ -1,0 +1,40 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+}
+
+/* Write your CSS below, don't change the rules above. */
+
+* {
+  text-align: center;
+  background-color: aquamarine;
+}
+
+h2 {
+  color: green;
+}
+
+h1 {
+  color: goldenrod;
+}
+
+li {
+  color: palevioletred;
+}
+
+p {
+  color: tomato;
+}
+
+p {
+  font-size: 40px;
+}
+
+li {
+  font-size: 35px;
+}
+
+h1 {
+  font-size: 50px;
+}
