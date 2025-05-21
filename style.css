@@ -8,6 +8,7 @@ ol {
 
 * {
   text-align: center;
+  background-color: skyblue;
 }
 
 h2 {
@@ -24,8 +25,4 @@ h1 {
 
 a {
   font-size: 50px;
-}
-
-* {
-  background-clour: skyblue;
 }
